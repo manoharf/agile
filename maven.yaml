@@ -9,6 +9,7 @@ spec:
       labels:
         run: hello-world
     spec:
+    
       containers:
       - name: hello
         image: nginxdemos/hello:latest
